@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e27da529-fcf1-4a52-8466-bf6cd3cdda6e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/api/product.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/api/product.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/documentation/documentation.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/documentation/documentation.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/documentation/documentation.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/documentation/documentation.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/pages/empty/emptydemo.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/pages/empty/emptydemo.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/pages/empty/emptydemo.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/pages/empty/emptydemo.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/profile/create/profilecreate.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/profile/create/profilecreate.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/profile/create/profilecreate.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/profile/create/profilecreate.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/uikit/charts/chartsdemo.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/uikit/charts/chartsdemo.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/uikit/charts/chartsdemo.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/uikit/charts/chartsdemo.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/uikit/file/filedemo.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/uikit/file/filedemo.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/uikit/file/filedemo.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/uikit/file/filedemo.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/uikit/menus/menus.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/uikit/menus/menus.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/uikit/menus/menus.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/uikit/menus/menus.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/uikit/messages/messagesdemo.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/uikit/messages/messagesdemo.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/uikit/messages/messagesdemo.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/uikit/messages/messagesdemo.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/uikit/misc/miscdemo.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/uikit/misc/miscdemo.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/uikit/misc/miscdemo.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/uikit/misc/miscdemo.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/uikit/overlays/overlaysdemo.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/uikit/overlays/overlaysdemo.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/uikit/overlays/overlaysdemo.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/uikit/overlays/overlaysdemo.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/uikit/panels/panelsdemo.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/uikit/panels/panelsdemo.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/components/uikit/panels/panelsdemo.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/components/uikit/panels/panelsdemo.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/service/country.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/service/country.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/service/event.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/service/event.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/service/icon.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/service/icon.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/service/node.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/service/node.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/demo/service/product.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/app/demo/service/product.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/demo/data/files-lazy.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/assets/demo/data/files-lazy.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/demo/data/files.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/assets/demo/data/files.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/demo/data/filesystem-lazy.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/assets/demo/data/filesystem-lazy.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/demo/data/filesystem.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/assets/demo/data/filesystem.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/demo/data/scheduleevents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/assets/demo/data/scheduleevents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/demo/images/flag/flag_placeholder.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/assets/demo/images/flag/flag_placeholder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/demo/styles/flags/flags.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/assets/demo/styles/flags/flags.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/demo/styles/flags/flags_responsive.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/assets/demo/styles/flags/flags_responsive.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Dockerfile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2euyMJSl2TcDOfZRpV3fuKLT3Mg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Samsung/Desktop/nttData/products&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.java in project">
+    <configuration name="ProductServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.service" />
+      <option name="MAIN_CLASS_NAME" value="com.service.ProductServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTest.testGetProductById_NotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.service" />
+      <option name="MAIN_CLASS_NAME" value="com.service.ProductServiceTest" />
+      <option name="METHOD_NAME" value="testGetProductById_NotFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.controller.ProductsControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsMapperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.mapper.ProductsMapperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <module name="project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nttdata.products.api.ProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ProductsControllerTest" />
+      <item itemvalue="JUnit.ProductsMapperTest" />
+      <item itemvalue="JUnit.java in project" />
+      <item itemvalue="JUnit.ProductServiceTest" />
+      <item itemvalue="JUnit.ProductServiceTest.testGetProductById_NotFound" />
+      <item itemvalue="Spring Boot.ProjectApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.java in project" />
+        <item itemvalue="JUnit.ProductsControllerTest" />
+        <item itemvalue="JUnit.ProductsMapperTest" />
+        <item itemvalue="JUnit.ProductServiceTest" />
+        <item itemvalue="JUnit.ProductServiceTest.testGetProductById_NotFound" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e27da529-fcf1-4a52-8466-bf6cd3cdda6e" name="Changes" comment="" />
+      <created>1712768710141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712768710141</updated>
+      <workItem from="1712768711328" duration="17337000" />
+      <workItem from="1712836900178" duration="10213000" />
+      <workItem from="1712920127723" duration="2049000" />
+      <workItem from="1713029403476" duration="2146000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

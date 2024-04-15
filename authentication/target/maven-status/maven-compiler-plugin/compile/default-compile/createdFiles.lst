@@ -1,0 +1,13 @@
+com\nttdata\authentication\api\ProjectApplication.class
+com\nttdata\authentication\api\client\User.class
+com\nttdata\authentication\api\client\ValidationsClient.class
+com\nttdata\authentication\api\exception\AuthException.class
+com\nttdata\authentication\api\repository\AuthRepository.class
+com\nttdata\authentication\api\data\dto\AuthDto.class
+com\nttdata\authentication\api\service\AuthServiceImpl.class
+com\nttdata\authentication\api\data\mapper\AuthMapper.class
+com\nttdata\authentication\api\config\SecurityConfig.class
+com\nttdata\authentication\api\data\entity\AuthEntity.class
+com\nttdata\authentication\api\controller\AuthController.class
+com\nttdata\authentication\api\service\AuthService.class
+com\nttdata\authentication\api\client\UserDtoType.class

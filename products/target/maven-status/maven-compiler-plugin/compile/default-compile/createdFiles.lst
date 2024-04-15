@@ -1,0 +1,9 @@
+com\nttdata\products\api\data\mapper\ProductsMapper.class
+com\nttdata\products\api\service\ProductsServiceImpl.class
+com\nttdata\products\api\data\dto\ProductsDto.class
+com\nttdata\products\api\config\configuration.class
+com\nttdata\products\api\repository\ProductsRepository.class
+com\nttdata\products\api\controller\ProductsController.class
+com\nttdata\products\api\ProjectApplication.class
+com\nttdata\products\api\service\ProductsService.class
+com\nttdata\products\api\data\entity\ProductsEntity.class
